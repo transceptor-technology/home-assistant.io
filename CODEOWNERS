@@ -107,6 +107,7 @@ source/_integrations/doorbird.markdown @oblogic7 @bdraco
 source/_integrations/dsmr.markdown @Robbie1221
 source/_integrations/dsmr_reader.markdown @depl0y
 source/_integrations/dunehd.markdown @bieniu
+source/_integrations/dutycalls.markdown @robbm1
 source/_integrations/dwd_weather_warnings.markdown @runningman84 @stephan192 @Hummel95
 source/_integrations/dweet.markdown @fabaff
 source/_integrations/dynalite.markdown @ziv1234
